@@ -47,6 +47,7 @@ python speech_to_text.py
 ```
 5.	Speak when prompted, and your transcribed text will appear right after.
 
+---
 
 ##📁 Project Structure
 
@@ -57,6 +58,7 @@ SpeechToTextSystem/
 ├── .gitignore               # Ignore wav and cache files
 └── live_audio.wav           # Auto-generated at runtime
 
+---
 
 ##✅ Task-2 Internship Goal
 
@@ -64,12 +66,18 @@ SpeechToTextSystem/
 
 This project meets that goal using Wav2Vec2, which provides deep learning-based transcription with good accuracy.
 
+---
+
 ##📌 Notes
 	•	Works best with clear audio and little background noise.
 	•	live_audio.wav is automatically created on every run — no need to upload it to GitHub.
+
+---
 
 ##🙋‍♂️ Made By
 
 Raman Kumar
 Intern @ CodTech AI Internship
 Batch: July 2025
+
+---
