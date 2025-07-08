@@ -88,8 +88,8 @@ This project meets that goal using Wav2Vec2, which provides deep learning-based 
 
 ## 🙋‍♂️ Made By
 
-Raman Kumar
-Intern @ CodTech AI Internship
-Batch: July 2025
+Raman Kumar  
+Intern @ CodTech AI Internship  
+Batch: July 2025  
 
 ---
