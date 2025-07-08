@@ -34,11 +34,18 @@ This is a basic speech-to-text system I built as part of my **CodTech AI Interns
 ## 💻 How to Run
 
 1. **Clone this repository** or download the project folder.
+
+```bash
+git clone https://github.com/galaxy00-7/Speech-To-Text-System.git
+```
 2. Make sure Python is installed (3.8 or above recommended).
 3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
+cd SpeechToTextSystem
 ```
 4.	Run the main script:
 
@@ -51,12 +58,17 @@ python speech_to_text.py
 
 ##📁 Project Structure
 
+<pre>
+```bash
 SpeechToTextSystem/
 │
 ├── speech_to_text.py        # Main script
 ├── requirements.txt         # Required libraries
 ├── .gitignore               # Ignore wav and cache files
 └── live_audio.wav           # Auto-generated at runtime
+```
+</pre>
+
 
 ---
 
