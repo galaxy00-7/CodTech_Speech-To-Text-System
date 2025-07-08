@@ -33,30 +33,30 @@ This is a basic speech-to-text system I built as part of my **CodTech AI Interns
 
 ## 💻 How to Run
 
-###1. **Clone this repository** or download the project folder.
+### 1. **Clone this repository** or download the project folder.
 
 ```bash
-git clone https://github.com/galaxy00-7/Speech-To-Text-System.git
+git clone https://github.com/galaxy00-7/CodTech_Speech-To-Text-System.git
 ```
 
-###2. Make sure Python is installed (3.8 or above recommended).
-###3. Install dependencies:
+### 2. Make sure Python is installed (3.8 or above recommended).
+### 3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 ```bash
-cd SpeechToTextSystem
+cd CodTech_Speech-To-Text-System
 ```
 
-###4. Run the main script:
+### 4. Run the main script:
 
 ```bash
 python speech_to_text.py
 ```
 
-###5. Speak when prompted, and your transcribed text will appear right after.
+### 5. Speak when prompted, and your transcribed text will appear right after.
 
 ---
 
@@ -64,7 +64,7 @@ python speech_to_text.py
 
 <pre>
 
-SpeechToTextSystem/
+CodTech_Speech-To-Text-System/
 │
 ├── speech_to_text.py        # Main script
 ├── requirements.txt         # Required libraries
