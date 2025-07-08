@@ -59,14 +59,14 @@ python speech_to_text.py
 ##📁 Project Structure
 
 <pre>
-```bash
+
 SpeechToTextSystem/
 │
 ├── speech_to_text.py        # Main script
 ├── requirements.txt         # Required libraries
 ├── .gitignore               # Ignore wav and cache files
 └── live_audio.wav           # Auto-generated at runtime
-```
+
 </pre>
 
 
