@@ -33,30 +33,34 @@ This is a basic speech-to-text system I built as part of my **CodTech AI Interns
 
 ## 💻 How to Run
 
-1. **Clone this repository** or download the project folder.
+###1. **Clone this repository** or download the project folder.
 
 ```bash
 git clone https://github.com/galaxy00-7/Speech-To-Text-System.git
 ```
-2. Make sure Python is installed (3.8 or above recommended).
-3. Install dependencies:
+
+###2. Make sure Python is installed (3.8 or above recommended).
+###3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 ```bash
 cd SpeechToTextSystem
 ```
-4.	Run the main script:
+
+###4. Run the main script:
 
 ```bash
 python speech_to_text.py
 ```
-5.	Speak when prompted, and your transcribed text will appear right after.
+
+###5. Speak when prompted, and your transcribed text will appear right after.
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
 <pre>
 
@@ -81,8 +85,9 @@ This project meets that goal using Wav2Vec2, which provides deep learning-based 
 ---
 
 ## 📌 Notes
-	•	Works best with clear audio and little background noise.
-	•	live_audio.wav is automatically created on every run — no need to upload it to GitHub.
+. Works best with clear audio and little background noise.
+	
+. live_audio.wav is automatically created on every run — no need to upload it to GitHub.
 
 ---
 
